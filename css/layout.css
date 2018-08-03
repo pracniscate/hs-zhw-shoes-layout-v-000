@@ -28,6 +28,7 @@
   float: left;
   margin-right: 2%;
   width: 66%;
+  padding: 61px;
 }
 
 .col-2 {
@@ -52,5 +53,4 @@
 
 .deal_wrapper {
   padding: 5%;
-  column-gap: 3%;
 }
